@@ -9,3 +9,8 @@
     object-fit: cover;
     filter: brightness(0.5)
 }
+
+.header {
+    padding: 2rem;
+    margin-bottom: 1rem;
+}
